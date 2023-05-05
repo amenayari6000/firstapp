@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695538319676",
+    "project_id": "my-appli-8c6be",
+    "storage_bucket": "my-appli-8c6be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695538319676:android:f41950018a96b899ff1e39",
+        "android_client_info": {
+          "package_name": "com.walid6000.myappli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695538319676-dgdtjq1bn588calnd4h8vhj9u4t8c941.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4cwlt2tlkn30pAgY6RHr4nDbUM_7ZVnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695538319676-dgdtjq1bn588calnd4h8vhj9u4t8c941.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
